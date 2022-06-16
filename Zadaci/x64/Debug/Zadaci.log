@@ -1,0 +1,3 @@
+﻿  Zadaci.cpp
+C:\Users\Deniz\Desktop\PROG_BANE\Zadaci\Zadaci.cpp(14,5): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Zadaci.vcxproj -> C:\Users\Deniz\Desktop\PROG_BANE\Zadaci\x64\Debug\Zadaci.exe
