@@ -10,10 +10,10 @@ int main(){
 	min_broj= unos;
 	
 	while(unos!=0){
-		cout<<"Unesite broj"<<endl;
-		cin>>unos;
 		if(unos<min_broj){
 			min_broj=unos;}
+                cout<<"Unesite broj"<<endl;
+		cin>>unos;
 }
 cout<<"Najmanji uneseni broj je:"<<min_broj<<endl;
 	return 0;
