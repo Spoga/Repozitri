@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char** argv) {
+	int i,n,s=0;
+	cout<<"Unesite bro clanova niza: "<<endl;
+	cin>>n;
+	int niz[n];
+	
+	for(i=0;i<n;i++)
+	{
+		cout<<"unesite clanove niza: "<<endl;
+		cin>>niz[i];
+		
+	}
+	cout<<"Suma brojeva sa parnim indeksima iznosi: "<<endl;
+	for(i=1;i<n;i++)
+	{
+		if(niz[i]%2==0)
+		{
+			s=s+niz[i];
+		}
+		
+	}
+	cout<<s;
+	return 0;
+}
