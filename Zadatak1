@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	int unos,min_broj;
+	
+	cout<<"Unesite broj"<<endl;
+	cin>>unos;
+	
+	min_broj= unos;
+	
+	while(unos!=0){
+		cout<<"Unesite broj"<<endl;
+		cin>>unos;
+		if(unos<min_broj){
+			min_broj=unos;}
+}
+cout<<"Najmanji uneseni broj je:"<<min_broj<<endl;
+	return 0;
+}
