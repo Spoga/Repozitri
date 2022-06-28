@@ -1,0 +1,11 @@
+#Rezultati takmičenja iz engleskog jezika za učenike 2. srednjeg
+#Max broj bodova po zadatku:
+# Z1	Z2	Z3	Z4	Z5	Z6
+# 15	10	10	15	20	30
+Šifra učesnika, Z1, Z2, Z3, Z4, Z5, Z6
+A234009, 9, 10, 10, 10, 15, 15
+A122001, 7, 10, 9, 10, 10, 10
+A333309, 15, 10, 10, 10, 18, 28
+A000023, 15, 10, 10, 15, 19, 30
+A234581, 8, 10, 0, 15, 20, 15
+A763540, 15, 10, 8, 15, 15, 0

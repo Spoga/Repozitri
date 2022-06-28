@@ -1,0 +1,6 @@
+#Bodovi na završnom ispitu iz predmeta Matematika I
+Student, Broj indeksa, Datum polaganja, Bodovi
+Lala Lalić, II-V-19/20, 1.2.2021, 98
+Mara Marić, II-IV-5/20, 1.2.2021, 57
+Dženi Dženić, II-IV-3/20, 1.2.2021, 55 
+Sani Sanić, II-IV-2/20, 1.2.2021, 28
